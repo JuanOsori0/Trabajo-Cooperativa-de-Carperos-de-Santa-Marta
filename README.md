@@ -6,7 +6,7 @@ Trabajo de fin de curso de **Fundamentos de Programación**, Universidad del Mag
 
 Programa de consola en Python que lleva el registro diario de carpas alquiladas en las playas de la cooperativa y calcula sus indicadores: alquileres totales, promedio, porcentaje de alquiler, desviación estándar, días de más y de menos carpas, días en cada nivel de alquiler, racha más larga en nivel agotado y días sin registrar. Carga los datos desde dos archivos CSV o desde el teclado, y simula días para practicar.
 
-**Video explicativo:** _(agregar aquí el enlace público al video)_
+**Video explicativo:** _(https://www.youtube.com/watch?v=icAiSzj0iy4)_
 
 ## Cómo ejecutarlo
 
