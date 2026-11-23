@@ -1,0 +1,7 @@
+6
+datos/playas_ejemplo.csv
+datos/no_existe.csv
+4
+Playa Blanca
+6
+7

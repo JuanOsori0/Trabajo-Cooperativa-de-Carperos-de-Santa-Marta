@@ -1,0 +1,7 @@
+6
+datos/playas_encabezado.csv
+datos/alquileres_encabezado.csv
+6
+datos/playas_ejemplo.csv
+datos/alquileres_encabezado.csv
+7

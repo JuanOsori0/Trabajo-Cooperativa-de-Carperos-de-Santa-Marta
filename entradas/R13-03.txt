@@ -1,0 +1,8 @@
+6
+datos/playas_limites.csv
+datos/alquileres_limites.csv
+4
+Playa Bisiesta
+4
+Playa Fin
+7

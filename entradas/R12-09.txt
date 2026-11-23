@@ -1,0 +1,6 @@
+6
+datos/playas_excel.csv
+datos/alquileres_excel.csv
+4
+Bahía Concha
+7

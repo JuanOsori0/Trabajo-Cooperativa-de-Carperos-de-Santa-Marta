@@ -1,0 +1,6 @@
+6
+datos/playas_indicadores.csv
+datos/alquileres_indicadores.csv
+4
+Playa Empates
+7

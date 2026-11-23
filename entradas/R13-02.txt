@@ -1,0 +1,6 @@
+6
+datos/playas_con_vacias.csv
+datos/alquileres_con_espacios.csv
+4
+Playa Tres
+7

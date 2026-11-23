@@ -1,0 +1,14 @@
+6
+datos/playas_empates.csv
+datos/alquileres_empates.csv
+1
+Playa Nueva
+2
+2026
+11
+1
+2
+Playa Nueva
+1
+5
+7

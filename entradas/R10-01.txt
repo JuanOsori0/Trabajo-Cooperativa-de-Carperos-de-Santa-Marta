@@ -1,0 +1,12 @@
+6
+datos/playas_varias.csv
+datos/alquileres_varias.csv
+4
+Playa Blanca
+4
+Playa Grande
+4
+Bahía Concha
+4
+Playa Los Cocos
+7

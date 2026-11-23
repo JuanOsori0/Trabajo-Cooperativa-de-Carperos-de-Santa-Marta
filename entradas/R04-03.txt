@@ -1,0 +1,6 @@
+6
+datos/playas_varias.csv
+datos/alquileres_varias.csv
+4
+Playa Los Cocos
+7

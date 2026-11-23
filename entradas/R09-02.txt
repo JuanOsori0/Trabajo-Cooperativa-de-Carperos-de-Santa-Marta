@@ -1,0 +1,12 @@
+1
+Playa Ayer
+10
+{año:hoy-1}
+{mes:hoy-1}
+{dia:hoy-1}
+2
+Playa Ayer
+5
+4
+Playa Ayer
+7

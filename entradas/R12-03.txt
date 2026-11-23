@@ -1,0 +1,6 @@
+6
+datos/playas_limites.csv
+datos/alquileres_encabezado.csv
+4
+Playa Signo
+7

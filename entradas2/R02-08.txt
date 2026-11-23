@@ -1,0 +1,10 @@
+6
+datos/playas_ejemplo.csv
+datos/alquileres_ejemplo.csv
+2
+Playa Grande
+61
+60
+4
+Playa Grande
+7

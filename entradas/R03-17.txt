@@ -1,0 +1,14 @@
+1
+Playa Futura
+10
+{año:hoy-1}
+{mes:hoy-1}
+{dia:hoy-1}
+3
+Playa Futura
+5
+3
+3
+4
+Playa Futura
+7
